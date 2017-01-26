@@ -1,3 +1,4 @@
 node_modules/
 Exercise Files/
+build/bundle.js
 .DS_Store
